@@ -13,7 +13,7 @@ This repository contains the brand and market analysis project for Myntra, focus
 - Brand and market insights report
 
 ## Technologies Used:
-- Tableau (for visualizations)
+- Tableau and Power BI (for visualizations)
 - Google Trends
 - Market research tools
 
