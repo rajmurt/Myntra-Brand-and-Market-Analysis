@@ -18,4 +18,4 @@ This repository contains the brand and market analysis project for Myntra, focus
 - Market research tools
 
 ## View the final deliverable:
-- [Download the final PowerPoint presentation]()
+- [Download the final PowerPoint presentation](https://github.com/rajmurt/Myntra-Brand-and-Market-Analysis/blob/26a353cc46fe234b59b9d73f8b210cebbd8be83e/Myntra%20Brand%20and%20Market%20Analysis.pptx)
